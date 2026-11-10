@@ -1,6 +1,6 @@
 # Class-Project-
 Create the Parent Class (Workout):
-
+## First of all~ 
 Fields: String type and int duration (in minutes).
 
 A method named showWorkout() that prints the workout type and duration.
